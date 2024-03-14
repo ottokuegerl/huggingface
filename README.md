@@ -6,17 +6,16 @@
 
 #### Setting Up a Virtual Environment
 
-```python
-print("Hello, world!")
 
-*) create environment:
-  
+
+create environment:
+```python  
    python -m venv hf_env_wpl
 
    --> essentially, pyvenv sets up a new directory that contains a few items which
        we can view with the ls command: ls hf_env_wpl
 
-*) activate environment:
+activate environment:
    to use this environment, you need to activate it:
    
    cd hf_env_wpl   
@@ -30,7 +29,7 @@ print("Hello, world!")
    now we see: (hf_env_wpl) [nuc8@nuc8 AI]$ 
 
 
-*) now work with python :-)
+now work with python :-)
    python -m pip install --upgrade pip
 
    pip install --upgrade openai
