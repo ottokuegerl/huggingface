@@ -6,10 +6,8 @@
 
 #### Setting Up a Virtual Environment
 
-
-
+```python
 create environment:
-```python  
    python -m venv hf_env_wpl
 
    --> essentially, pyvenv sets up a new directory that contains a few items which
