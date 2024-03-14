@@ -5,6 +5,10 @@
 
 
 #### Setting Up a Virtual Environment
+
+```python
+print("Hello, world!")
+
 *) create environment:
   
    python -m venv hf_env_wpl
