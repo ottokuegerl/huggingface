@@ -1,0 +1,6 @@
+we love huggingface 
+[{'label': 'POSITIVE', 'score': 0.9996851682662964}]
+d o n e at: ---> 2024-03-14 10:33:52 <---
+we hate microsoft 
+[{'label': 'NEGATIVE', 'score': 0.9992271661758423}]
+d o n e at: ---> 2024-03-14 10:33:52 <---
