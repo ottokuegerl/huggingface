@@ -16,10 +16,13 @@ TXT2 = "we hate microsoft"
 
 
 def clear_screen():
-    if platform.system() == "Windows":
-        os.system("cls")
-    else:
-        os.system("clear")
+    try:
+        if platform.system() == "Windows":
+            os.system("cls")
+        else:
+            os.system("clear")
+    except Exception as e:
+        print(f"Error clearing screen: {e}")
 
 
 if __name__ == "__main__":

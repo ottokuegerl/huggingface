@@ -22,7 +22,12 @@ from transformers import pipeline
 import datetime
 
 FILENAME = "hf_asr.txt"
-AUDIO_FILES = ["99_audio_1.mp3", "99_audio_2.flac", "99_audio_3.aac", "99_audio_4.mp3"]
+AUDIO_FILES = [
+    "99_audio_1.mp3",
+    "99_audio_2.flac",
+    "99_audio_3.aac",
+    "99_audio_4.mp3",
+]
 
 
 def clear_screen():
