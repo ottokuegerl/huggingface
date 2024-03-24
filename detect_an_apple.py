@@ -1,7 +1,9 @@
 """
 ################################################
-## detect an apple
-## on behalf 
+## This Python script uses TensorFlow and OpenCV
+## to detect objects in images, specifically looking
+## for apples among a predefined list of image files
+################################################
 ##
 ## pip install tensorflow
 ## pip install numpy opencv-python pillow
