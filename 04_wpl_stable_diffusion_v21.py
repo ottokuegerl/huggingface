@@ -59,10 +59,11 @@ if __name__ == "__main__":
         50  # Increase the number of inference steps for better quality
     )
 
-    prompt = "a photo of an astronaut riding a horse on mars"
+    # prompt = "a photo of an astronaut riding a horse on mars"
+    prompt = "a lucky duck with glasses in a colorful transparent sphere with a lot of light reflections"
     image = pipe(prompt).images[0]
 
-    image.save("astronaut_rides_horse2.png")
+    image.save("lucky_duck.png")
 
     end_time = time.time()  # End time measurement
     execution_time = end_time - start_time  # Calculate execution time

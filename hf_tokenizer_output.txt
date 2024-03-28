@@ -1,0 +1,35 @@
+Welche Farbe hat der Himmel?
+Tokenized: [[101, 17939, 2063, 2521, 4783, 6045, 4315, 2032, 10199, 1029, 102]] 
+11 tokens will be used as input
+{'label': 'NEGATIVE', 'score': 0.9960770010948181}
+Done at: ---> 2024-03-28 09:01:56 <---
+Wie spät ist es?
+Tokenized: [[101, 15536, 2063, 14690, 21541, 9686, 1029, 102]] 
+8 tokens will be used as input
+{'label': 'NEGATIVE', 'score': 0.9927841424942017}
+Done at: ---> 2024-03-28 09:01:56 <---
+Welcher Tag ist heute?
+Tokenized: [[101, 17939, 2121, 6415, 21541, 2002, 10421, 1029, 102]] 
+9 tokens will be used as input
+{'label': 'NEGATIVE', 'score': 0.990323543548584}
+Done at: ---> 2024-03-28 09:01:56 <---
+Erstelle ein Bild von einer lustigen Ente mit Brille und einem Apfel?
+Tokenized: [[101, 9413, 13473, 6216, 16417, 12170, 6392, 3854, 27665, 2099, 11516, 29206, 4372, 2618, 10210, 7987, 10484, 6151, 27665, 2213, 9706, 7959, 2140, 1029, 102]] 
+25 tokens will be used as input
+{'label': 'NEGATIVE', 'score': 0.9767699837684631}
+Done at: ---> 2024-03-28 09:01:56 <---
+HPE ist super
+Tokenized: [[101, 6522, 2063, 21541, 3565, 102]] 
+6 tokens will be used as input
+{'label': 'POSITIVE', 'score': 0.9139553904533386}
+Done at: ---> 2024-03-28 09:01:56 <---
+NVIDIA ist auch super
+Tokenized: [[101, 1050, 17258, 2401, 21541, 8740, 2818, 3565, 102]] 
+9 tokens will be used as input
+{'label': 'POSITIVE', 'score': 0.7248170971870422}
+Done at: ---> 2024-03-28 09:01:56 <---
+Microsoft ist keine tolle Firma
+Tokenized: [[101, 7513, 21541, 26679, 2638, 9565, 2063, 3813, 2050, 102]] 
+10 tokens will be used as input
+{'label': 'NEGATIVE', 'score': 0.9803100228309631}
+Done at: ---> 2024-03-28 09:01:56 <---

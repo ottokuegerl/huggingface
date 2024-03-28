@@ -1,0 +1,16 @@
+we love huggingface 
+Tokenized: [[101, 2057, 2293, 17662, 12172, 102]]
+[{'label': 'POSITIVE', 'score': 0.9996851682662964}]
+d o n e at: ---> 2024-03-28 08:28:18 <---
+we hate microsoft 
+Tokenized: [[101, 2057, 5223, 7513, 102]]
+[{'label': 'NEGATIVE', 'score': 0.9992271661758423}]
+d o n e at: ---> 2024-03-28 08:28:18 <---
+What color is the sky? 
+Tokenized: [[101, 2054, 3609, 2003, 1996, 3712, 1029, 102]]
+[{'label': 'NEGATIVE', 'score': 0.8651800155639648}]
+d o n e at: ---> 2024-03-28 08:28:18 <---
+Welche Farbe hat der Himmel? 
+Tokenized: [[101, 17939, 2063, 2521, 4783, 6045, 4315, 2032, 10199, 1029, 102]]
+[{'label': 'NEGATIVE', 'score': 0.9960770010948181}]
+d o n e at: ---> 2024-03-28 08:28:18 <---
